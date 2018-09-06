@@ -6,14 +6,7 @@
     "license": [
         "GPL-3.0"
     ],
-    "require": {
-        "php": "~5.6.0|~7.0.0|~7.1.0|~7.2.0",
-        "magento/module-config": "100.0.*",
-        "magento/module-store": "100.0.*",
-        "magento/module-backend": "100.0.*",
-        "magento/module-directory": "100.0.*",
-        "magento/framework": "100.0.*"
-    },
+    "require": {"mage2pro/core": ">=3.9.0"},
     "autoload": {
         "files": [
             "registration.php"
@@ -26,6 +19,10 @@
         {
             "name": "Thanh Dang Vu",
             "email": "thanhdv2811@gmail.com"
+        },
+        {
+            "name": "Oral ÜNAL",
+            "email": "oralunal@gmail.com"
         }
     ]
 }
